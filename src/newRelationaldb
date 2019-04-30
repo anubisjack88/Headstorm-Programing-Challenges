@@ -1,0 +1,17 @@
+CREATE TABLE Persons
+(
+PersonID int,
+
+lastName varchar(255),
+firstName varchar(255),
+cellPhone varchar(255),
+workPhone varchar(255),
+address varchar(255),
+email varchar(255),
+basicWidgetorder varchar(255),
+advancedWidgetorder varchar(255),
+protectionPlan bit (0,1 or null)
+
+);
+
+        
