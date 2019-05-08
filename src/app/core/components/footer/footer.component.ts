@@ -10,7 +10,7 @@ import {
     <div class="container">
     <div class="content has-text-centered">
       <p>
-        A website creative and develped by  by <a href="https://www.linkedin.com/in/gemar-johnston/">Gemar Johnston (Johnston Executive Solutions)</a>
+        A website desined by <a href="https://www.linkedin.com/in/gemar-johnston/"> Johnston Executive Solutions</a>
       </p>
     </div>
     </div>
